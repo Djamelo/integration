@@ -1,0 +1,104 @@
+
+body{
+	font-family: ;
+	height: 1400px;
+    width: 1010px;
+    background: url('maxi-challenge-1/images/bg.jpg');
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-blend-mode:soft-light;
+	background-color:#333;
+}
+
+.containerA {background-color: black;
+	     /*    height: 320px;*/
+             width: 1020px;
+         }
+
+.containerC {background-color: grey;
+	         height: 60px;
+             width: 1020px;}
+
+.containerD{
+	background-color: white;
+    width: 1020px;
+
+}
+
+/*Début en-tête*/
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	margin-top:0; }
+
+ul li{
+	display:inline-block;
+	padding-right:2%;
+	list-style-type: none;
+	text-align: center;
+	margin-top:5%; }
+
+ul li a:hover{
+	color:#cfa205; }
+
+ul li a{
+	text-decoration: none;
+	color:white; }
+
+/*Fin en-tête*/
+
+h1{
+	font-size:133px;
+	font-weight:lighter;
+	letter-spacing: 3px;
+	color:#cfa205; }
+
+.sub {
+    color:#cfa205;
+	font-weight:bold; }
+
+/**.glyph{
+	text-align:center;
+	color:white;
+	padding-top:3%;
+}*/
+
+
+.introd {color:#7a7a7a;
+       text-align: center; 
+       height: 90px;
+       width: 900px;}
+
+.h20 {color: black;
+      font-size:18px;
+      font-weight: bold;}
+
+.M {color:#7a7a7a;
+font-size:14px;}
+
+
+.projet{
+	text-align:center;
+}
+
+
+.cases{
+	padding-left:2%;
+}
+
+.case {
+	width:30%;
+	height:100%;
+	display:inline-block;
+    margin-bottom: 0;
+    padding: 1%;
+}
+.case2 {
+	width:30%;
+	height:100%;
+	display:inline-block;
+    margin-bottom: 0;
+    padding: 1%;}
+    
